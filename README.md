@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Probabilité de survie sur le Titanic
 
 Pour pouvoir utiliser ce projet, il 
@@ -14,3 +15,6 @@ Pour installer les dépendances
 ```bash
 pip install -r requirements.txt
 ```
+=======
+Il faut créer un fichier ".env" pour pouvoir utiliser l'API.
+>>>>>>> 9bcff2961aa2929fb982501809a090cb4355fd82

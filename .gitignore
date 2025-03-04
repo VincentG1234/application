@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 config.yaml
 __pycache__/
 data/**/*.csv
 titanic/
+=======
+__pycache__/
+.env
+>>>>>>> 9bcff2961aa2929fb982501809a090cb4355fd82
